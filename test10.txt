@@ -1,1 +1,3 @@
 merge is not working
+
+reverting the commit 
